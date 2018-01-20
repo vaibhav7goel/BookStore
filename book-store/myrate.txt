@@ -1,0 +1,1 @@
+good   3 nice   2 bad   -1 worst   -3 very   0 great 4
